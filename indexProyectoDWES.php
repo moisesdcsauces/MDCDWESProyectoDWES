@@ -41,7 +41,7 @@
         <div class="tema">
           <h2 class="tema__titulo"><span class="tema__numero">UT2</span> Instalación, configuración y documentación del entorno de desarrollo y del entorno de explotación</h2>
           <ul class="tema__practicas">
-            <li class="tema__practica tema__practica--pendiente"></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDAWProyectoDAW/doc/DOCUMENTACION-INSTALACION.pdf" target="_blank">T2 · DOCUMENTACION-INSTALACION.PDF</a></li>
           </ul>
         </div>
 
