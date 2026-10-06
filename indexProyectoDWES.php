@@ -41,7 +41,8 @@
         <div class="tema">
           <h2 class="tema__titulo"><span class="tema__numero">UT2</span> Instalación, configuración y documentación del entorno de desarrollo y del entorno de explotación</h2>
           <ul class="tema__practicas">
-            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDAWProyectoDAW/doc/DOCUMENTACION-INSTALACION.pdf" target="_blank">T2 · DOCUMENTACION-INSTALACION.PDF</a></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDAWProyectoDAW/doc/USED-ServidorWeb.pdf" target="_blank">USED-ServidorWeb.pdf</a></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDAWProyectoDAW/doc/W11ED-ClienteDesarrollo.pdf" target="_blank">W11ED-ClienteDesarrollo.pdf</a></li>
           </ul>
         </div>
 
@@ -53,7 +54,7 @@
         </div>
 
         <div class="tema">
-          <h2 class="tema__titulo"><span class="tema__numero">UT4</span> Técnicas de acceso a datos en PHP</h2>
+            <h2 class="tema__titulo"><span class="tema__numero">UT4</span><a class="titulo-enlace" href="../DWESProyectoTema4/indexProyectoTema4.php"> Técnicas de acceso a datos en PHP</a></h2>
           <ul class="tema__practicas">
             <li class="tema__practica tema__practica--pendiente"></li>
           </ul>
