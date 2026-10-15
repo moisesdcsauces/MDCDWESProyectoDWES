@@ -54,7 +54,7 @@
         </div>
 
         <div class="tema">
-            <h2 class="tema__titulo"><span class="tema__numero">UT4</span><a class="titulo-enlace" href="../DWESProyectoTema4/indexProyectoTema4.php"> Técnicas de acceso a datos en PHP</a></h2>
+            <h2 class="tema__titulo"><span class="tema__numero">UT4</span><a class="titulo-enlace" href="../MDCDWESProyectoTema4/indexProyectoTema4.php"> Técnicas de acceso a datos en PHP</a></h2>
           <ul class="tema__practicas">
             <li class="tema__practica tema__practica--pendiente"></li>
           </ul>
