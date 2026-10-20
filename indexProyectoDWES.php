@@ -42,7 +42,7 @@
           <h2 class="tema__titulo"><span class="tema__numero">UT2</span> Instalación, configuración y documentación del entorno de desarrollo y del entorno de explotación</h2>
           <ul class="tema__practicas">
             <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="https://github.com/moisesdcsauces/MDCDAWProyectoDAW/blob/developer/doc/USED-ServidorWeb.md" target="_blank">USED-ServidorWeb.md</a></li>
-            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDAWProyectoDAW/doc/W11ED-ClienteDesarrollo.pdf" target="_blank">W11ED-ClienteDesarrollo.pdf</a></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="https://github.com/moisesdcsauces/MDCDAWProyectoDAW/blob/developer/doc/W11ED-ClienteDesarrollo.md" target="_blank">W11ED-ClienteDesarrollo.md</a></li>
           </ul>
         </div>
 
