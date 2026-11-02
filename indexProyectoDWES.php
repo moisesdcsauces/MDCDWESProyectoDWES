@@ -43,6 +43,7 @@
           <ul class="tema__practicas">
             <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="https://github.com/moisesdcsauces/MDCDAWProyectoDAW/blob/developer/doc/USED-ServidorWeb.md" target="_blank">USED-ServidorWeb.md</a></li>
             <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="https://github.com/moisesdcsauces/MDCDAWProyectoDAW/blob/developer/doc/W11ED-ClienteDesarrollo.md" target="_blank">W11ED-ClienteDesarrollo.md</a></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="doc/Funciones-Clases-PHP.pdf" target="_blank">Funciones-Clases-PHP.pdf</a></li>
           </ul>
         </div>
 
