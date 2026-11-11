@@ -65,7 +65,7 @@
             <h2 class="tema__titulo"><span class="tema__numero">UT5</span> Desarrollo de aplicaciones web</h2>
           <ul class="tema__practicas">
             <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDWESProyectoTema5/indexProyectoTema5.php">Tema 5</a></li>
-            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDWESLoginLogoffTema5/index.php">Login/Logoff Tema 5</a></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDWESProyectoLoginLogoutTema5/index.php">Login/Logoff Tema 5</a></li>
           </ul>
         </div>
 
