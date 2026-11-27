@@ -11,6 +11,8 @@ Proyecto de la asignatura Desarrollo Web en Entorno Servidor: índice de los tem
 - [Índice de la asignatura](indexProyectoDWES.php)
 - [Estudio del Tema 1](doc/EstudioTema1.pdf)
 - [Funciones y clases de PHP](doc/Funciones-Clases-PHP.pdf)
+- [Servidor Web — Ubuntu Server (USED)](https://github.com/moisesdcsauces/MDCDAWProyectoDAW/blob/developerMDC/doc/USED-ServidorWeb.md)
+- [Cliente de Desarrollo — Windows 11 (W11ED)](https://github.com/moisesdcsauces/MDCDAWProyectoDAW/blob/developerMDC/doc/W11ED-ClienteDesarrollo.md)
 - [Entorno de explotación — Plesk](https://github.com/moisesdcsauces/MDCDAWProyectoDAW/blob/master/doc/PLESK-EntornoExplotacion.md)
 
 ## Proyectos de los temas
